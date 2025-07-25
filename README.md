@@ -14,8 +14,8 @@ To download each notebook, click the name of the notebook above, then `<Open in 
 
 Alternatively, just click here!
 
-[My First Neural Network: Classification](https://colab.research.google.com/drive/1ZL91fvyhJqBGvzFvP7KDRx45cr35Q1zv?usp=sharing&sandboxMode=true)
+[My First Neural Network: Classification](https://colab.research.google.com/github/dwgb93/SIAM-Neural-Nets/blob/main/EdgeRunner-AI/Baby's_First_Neural_Network_Classification.ipynb?usp=sharing&sandboxMode=true)
 
-[My Second Neural Network: Convolution](https://colab.research.google.com/drive/1BmLynoHeRY68EQ8Mf3i3lv7P-ZyQE1j8?usp=sharing&sandboxMode=true)
+[My Second Neural Network: Convolution](https://colab.research.google.com/github/dwgb93/SIAM-Neural-Nets/blob/main/EdgeRunner-AI/Baby's_Second_Neural_Network_Convolution.ipynb?usp=sharing&sandboxMode=true)
 
-[My Third Neural Network: Autoencoders](https://colab.research.google.com/drive/1jaWXRzRLdpUJLZvMfqSDX-SGV827bjJV?usp=sharing&sandboxMode=true)
+[My Third Neural Network: Autoencoders](https://colab.research.google.com/github/dwgb93/SIAM-Neural-Nets/blob/main/EdgeRunner-AI/Baby's_Third_Neural_Network_Autoencoders.ipynb?usp=sharing&sandboxMode=true)
